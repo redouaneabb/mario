@@ -1,5 +1,5 @@
 # 🎮 Mario
-Nassim, Redouanne, Hakim et Florian
+Nassim, Redouanne et Florian
 
 ## 🤝 Workflow Collaboration (Git)
 
